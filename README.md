@@ -1,8 +1,5 @@
 # ServerPilot
 
-ServerPilot
-===========
-
 Ruby client gem for accessing <a href="http://www.serverpilot.io" target="_blank">ServerPilot</a> API
 
 Install
